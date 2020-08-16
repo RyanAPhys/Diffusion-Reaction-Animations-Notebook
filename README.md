@@ -1,4 +1,4 @@
-# Diffusion-Reaction-Animations
+# Diffusion-Reaction-Animations-Notebook
 An interactive notebook for creating matplotlib animations of Gray Scott diffusion reaction processes approximated numerically.
 
 
